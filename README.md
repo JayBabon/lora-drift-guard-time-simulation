@@ -19,17 +19,18 @@ The final simulation source code is located at:
 
 ```text
 main_source_code/lora_drift_gt.cc
+```
 
-Project Scope
+## Project Scope
 
-This repository is intended for source-code handover, verification, reproducibility, and future improvement of the simulation-based capstone study. It does not include manuscript files, certificates, screenshots, or bookbinding documents.
+This repository is intended for source-code handover, verification, reproducibility, and future improvement of the simulation-based capstone study. It contains only source code and supporting scripts. It does not include manuscript files, certificates, screenshots, or bookbinding documents.
 
-Authors
+## Authors
 
-Jay Laureen A. Babon
-Jeannilyn T. Enage
-Mel James C. Barral
+Jay Laureen A. Babon  
+Jeannilyn T. Enage  
+Mel James C. Barral  
 
-Bachelor of Science in Electronics Engineering
-Samar State University
+Bachelor of Science in Electronics Engineering  
+Samar State University  
 May 2026

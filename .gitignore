@@ -1,0 +1,31 @@
+# Temporary files
+*.tmp
+*.log
+~$*
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# ns-3 build files
+build/
+cmake-cache/
+*.o
+*.so
+*.a
+
+# Large packet capture files
+*.pcap
+
+# Office/bookbinding files - do not upload to source code repository
+*.docx
+*.pdf
+*.pptx
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+
+# ZIP files - upload extracted code folders, not ZIP files
+*.zip
